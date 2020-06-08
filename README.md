@@ -3,10 +3,9 @@ This is a project that was made from the <strong>Next Level Week</strong> marath
 
 <h3>=> Project objectives:</h3>
 
-<ol>
-<l1>Facilitate the search for collection points;</li>
-<li>Help the environment</li>
-</ol>
+* Facilitate the search for collection points
+* Help the environment
+
 
 <h3>=> Technologies that were used:</h3>
 
