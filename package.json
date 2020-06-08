@@ -5,10 +5,9 @@
   "scripts": {
     "start": "nodemon src/server.js"
   },
-  "keywords": [],
   "author": "João Paulo Nobrega Alonso",
   "license": "ISC",
-  "description": "",
+  "description": "My first project on GitHub",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.1",
